@@ -1,0 +1,32 @@
+body{
+    
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color:ed;
+}
+section{
+    background-color: rgb(28, 49, 87);
+    text-align: left;
+    color: white;
+    border-bottom:5%;
+    margin-bottom: 5%;
+    cursor: pointer;  
+}
+.atuti{
+text-align:center;
+font-size:23;
+}
+p{
+    font-size:60;
+    color:tomato;
+}
+span{
+    font-size:100;
+    color:tomato;
+}
+.arrow{
+  cursor: pointer;
+  max-width:2%;
+  height:2%;
+}

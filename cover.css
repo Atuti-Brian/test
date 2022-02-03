@@ -1,0 +1,22 @@
+h2{
+    color: tomato;
+    font-size:30;
+}
+h1{
+    font-size:50;
+}
+span{
+    color: orange;
+}
+body{
+    background-image: url(yoo.webp);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+a{
+    font-size: 30;
+    color: white;
+}
+
+    

@@ -1,0 +1,23 @@
+body{
+    background-image: url("bana.jpeg");
+    font-size: 20;
+}
+.primary-cta{
+    background:blue;
+color:white;
+text-decoration:none;
+padding:0em 1.0em;
+font-size: 1.1em;
+border-radius: 1em;
+font-weight: bold;
+display: inline-block;
+cursor: pointer;
+}
+h2{
+    color:blue;
+    font-size: 30;
+}
+p{
+    color: blue;
+    font-size: 30;
+}

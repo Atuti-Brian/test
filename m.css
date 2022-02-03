@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    background-image: url(photo1.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    section{
+        background-color: rgb(32, 74, 116);
+    }
+    .primary-cta{
+        background:blue;
+    color:white;
+    text-decoration:none;
+    padding:0em 1.3em;
+    font-size: 1.4em;
+    border-radius: 1em;
+    font-weight: bold;
+    display: inline-block;
+    }
+   
